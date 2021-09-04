@@ -1,25 +1,22 @@
-## Your Name / Date
+## Karen Barath  / 9-5-2021 Final
 
 ## Executive Summary
-This is an example, please delete and create your own professional summary:
-The purpose of Lab 1 is to explore the IT1025 course set-up, examine the history of computing and get up and running with GitHub. IT1025 covers a wide-range of computing topics with a primary goal of assisting in determining student passions in IT.  IT history has many interesting facets. One of particular interest was... Regardless of one's passion in IT, frameworks such as GitHub are useful to create, update and maintain any type of file and work in an organized repository.
+The purpose of Lab 1 was to learn about information systems taht are very complicated and vast. The major components are hardware, software, data, people and processes. This summary includes the five components, client server architecture, cloud computing and a brief conclusion
 
 ## Information System Components
+The five components are hardware, software, data, people and processes.
+Hardware example-monitor
+Software example-excel
+Data example- individuals addresses or telephone numbers
+People example- information management employees
+Processes example-work flow diagrams.
 
-## GitHub
 ### Client - Server Architecture
-### Cloud Computing
+Is when many allowed users have access to networks from there PC. Permission needs to be given for access to these networks. The client server architecture best features are they allow a lot of information seamlessly to be shared with many users from their PC. An example of a common benefit of the client server architecture for a business office is that multiple employees can access Microsoft applications such as word and excel from their desktop PC by accessing these applications from their company network. Then as the ideas of sharing information between networks grew into the internet, world wide web and e-commerce. With growth of sharing information, it brought more concern of information security risks to light to individuals, corporations, and government. Git Hub is an example of a shared server whereby many can work and communicate on a project.
 
-## Hardware
-### Hard Drives and Memory
-#### Latency and Transfer Rates
-#### Solid State vs. Hard Drives
-#### Random Access Memory
-### ALU and the Control Unit
-### CPU, Input & Output
-### Logic Gates 
-### IEEE - Ethically Aligned Design
+### Cloud Computing
+Is the storage of information via the cloud. Cloud computing basically allows the use a network of remote serves hosted by the internet to store, manage, and process data rather than a local server or a personal computer. The use of cloud computing is evident by the increase in people using their phones for banking… etc. And an example of  individuals have transitioned to using cloud computing.
 
 ## Conclusion
-This is an example, please delete and create your own professional summary:
-Through the course of this lab I learned about the course requirements for IT1025 as well as an overview of client-server architecture and GitHub.  I found GitHub to be interesting but initially had difficulty creating a respoitory.  I revisited the process but was still stumped so I contacted my instructor and with a few pointers was then able to complete the process successfully. I look forward to spending more time on GitHub and eventually learning about database which I believe is my current IT passion.
+Is that information systems are complicated and ever evolving. As information components, client server architecture and cloud computing continue to involve it is important to stay current with new information systems use and risks.
+
